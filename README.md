@@ -73,6 +73,5 @@ These KPIs help identify revenue drivers, seasonal demand patterns, customer spe
 ## Conclusion
 
  
-This Excel dashboard converts sales data into actionable insights by tracking key KPIs across revenue, products, customers, and delivery performance, enabling data-driven business decisions and growth planning.
-
+To enhance the sales performance of FNP (Ferns N Petals), a data-driven strategy focused on high-performing occasions such as Anniversaries and Raksha Bandhan, along with peak sales months like February, August, and October, should be prioritized. These periods represent strong customer intent and purchasing behavior. The strategy should include occasion-based campaigns, promotion of top-selling products, and time-targeted marketing during peak ordering hours to maximize revenue. Additionally, optimizing delivery timelines and strengthening presence in high-order cities will further improve customer satisfaction and overall business growth.
 
