@@ -11,31 +11,22 @@ This dashboard answers key business questions using well-defined KPIs to analyze
 
 1. **What is the total revenue generated?**  
    → *KPI:* Total Revenue
-
 2. **What is the average order-to-delivery time?**  
    → *KPI:* Average Delivery Time (Days)
-
 3. **How does sales performance vary month-wise?**  
    → *KPI:* Monthly Revenue Trend
-
 4. **Which products generate the highest revenue?**  
    → *KPI:* Top Products by Revenue
-
 5. **How much do customers spend on average per order?**  
    → *KPI:* Average Customer Spending (AOV)
-
 6. **How do the top 5 products perform in terms of sales?**  
    → *KPI:* Revenue Contribution of Top 5 Products
-
 7. **Which cities place the highest number of orders?**  
    → *KPI:* Orders by City (Top 10 Cities)
-
 8. **Does order quantity impact delivery time?**  
    → *KPI:* Order Quantity vs Delivery Time Analysis
-
 9. **Which occasions generate the highest revenue?**  
    → *KPI:* Revenue by Occasion
-
 10. **Which products are most popular during specific occasions?**  
     → *KPI:* Product Popularity by Occasion
 
@@ -44,4 +35,17 @@ These KPIs help identify revenue drivers, seasonal demand patterns, customer spe
 
 ## 📊 Dashboard Preview
 👉 [View Dashboard ](https://github.com/AmanKumar200/Excel_For_Data_Analysis_Dasboard/blob/87b129ce75868c481f310fdf443b6a3079eac884/Screenshot%202026-01-12%20175535.png)
+
+## Process
+.Collected and understood the raw FNP sales dataset
+.Cleaned and prepared data for analysis
+.Defined business questions and key KPIs
+.Analyzed sales, customer, product, and delivery trends
+.Built an interactive Excel dashboard for insights and decision-making
+
+## DashBoard
+
+<img width="1511" height="697" alt="Screenshot 2026-01-12 175535" src="https://github.com/user-attachments/assets/368d7124-c02c-4c41-bfc8-2064ea5da637" />
+
+
 
