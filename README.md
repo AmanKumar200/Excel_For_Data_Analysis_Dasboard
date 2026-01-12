@@ -56,6 +56,7 @@ These KPIs help identify revenue drivers, seasonal demand patterns, customer spe
 ## DashBoard
 
 <img width="1511" height="697" alt="Screenshot 2026-01-12 175535" src="https://github.com/user-attachments/assets/368d7124-c02c-4c41-bfc8-2064ea5da637" />
+
 ## Project Insights
 
 .Sales are highly occasion-driven, with Anniversaries and Raksha Bandhan generating the highest revenue.
