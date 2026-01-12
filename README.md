@@ -42,4 +42,6 @@ This dashboard answers key business questions using well-defined KPIs to analyze
 ### 🎯 Outcome
 These KPIs help identify revenue drivers, seasonal demand patterns, customer spending behavior, top-performing products, and operational bottlenecks—enabling data-driven business decisions.
 
+## 📊 Dashboard Preview
+👉 [View Dashboard ](https://github.com/AmanKumar200/Excel_For_Data_Analysis_Dasboard/blob/87b129ce75868c481f310fdf443b6a3079eac884/Screenshot%202026-01-12%20175535.png)
 
