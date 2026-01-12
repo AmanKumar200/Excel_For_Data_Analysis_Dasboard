@@ -1,3 +1,3 @@
 # FnP_Company_Sale_Data_Analysis(Interactive Dashboard Creation using Excel)
-##Project Overview
+## Project Overview
 This project presents a comprehensive Sales Analysis Dashboard designed to deliver actionable business insights for Ferns N Petals (FNP). The dashboard consolidates order, revenue, customer behavior, product performance, time-based trends, and geographic demand into a single, interactive view. It enables leadership and business teams to make data-driven decisions related to marketing, inventory planning, product strategy, and customer engagement.
