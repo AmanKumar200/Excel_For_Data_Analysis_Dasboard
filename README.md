@@ -11,24 +11,34 @@ This dashboard answers key business questions using well-defined KPIs to analyze
 
 1. **What is the total revenue generated?**  
    → *KPI:* Total Revenue
-2. **What is the average order-to-delivery time?**  
+   
+3. **What is the average order-to-delivery time?**  
    → *KPI:* Average Delivery Time (Days)
-3. **How does sales performance vary month-wise?**  
+   
+5. **How does sales performance vary month-wise?**  
    → *KPI:* Monthly Revenue Trend
-4. **Which products generate the highest revenue?**  
+   
+7. **Which products generate the highest revenue?**  
    → *KPI:* Top Products by Revenue
-5. **How much do customers spend on average per order?**  
+   
+9. **How much do customers spend on average per order?**  
    → *KPI:* Average Customer Spending (AOV)
-6. **How do the top 5 products perform in terms of sales?**  
+   
+11. **How do the top 5 products perform in terms of sales?**  
    → *KPI:* Revenue Contribution of Top 5 Products
-7. **Which cities place the highest number of orders?**  
+
+13. **Which cities place the highest number of orders?**  
    → *KPI:* Orders by City (Top 10 Cities)
-8. **Does order quantity impact delivery time?**  
+
+15. **Does order quantity impact delivery time?**  
    → *KPI:* Order Quantity vs Delivery Time Analysis
-9. **Which occasions generate the highest revenue?**  
+
+17. **Which occasions generate the highest revenue?**  
    → *KPI:* Revenue by Occasion
-10. **Which products are most popular during specific occasions?**  
+
+19. **Which products are most popular during specific occasions?**  
     → *KPI:* Product Popularity by Occasion
+    
 
 ### 🎯 Outcome
 These KPIs help identify revenue drivers, seasonal demand patterns, customer spending behavior, top-performing products, and operational bottlenecks—enabling data-driven business decisions.
@@ -47,13 +57,21 @@ These KPIs help identify revenue drivers, seasonal demand patterns, customer spe
 
 <img width="1511" height="697" alt="Screenshot 2026-01-12 175535" src="https://github.com/user-attachments/assets/368d7124-c02c-4c41-bfc8-2064ea5da637" />
 ## Project Insights
+
 .Sales are highly occasion-driven, with Anniversaries and Raksha Bandhan generating the highest revenue.
+
 .Revenue peaks in Feb, Aug, and Oct, showing strong seasonal demand.
+
 .A few top products contribute most of the revenue, indicating clear customer preferences.
+
 .Orders peak during afternoon–evening hours, ideal for targeted campaigns.
+
 .Tier-2 and Tier-3 cities show strong order volume, highlighting market expansion potential.
 
-Conclusion
+
+## Conclusion
+
+ 
 This Excel dashboard converts sales data into actionable insights by tracking key KPIs across revenue, products, customers, and delivery performance, enabling data-driven business decisions and growth planning.
 
 
